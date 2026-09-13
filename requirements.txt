@@ -1,0 +1,4 @@
+strands-agents[gemini]
+strands-agents-tools
+pandas
+streamlit
